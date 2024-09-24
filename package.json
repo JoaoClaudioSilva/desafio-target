@@ -1,0 +1,11 @@
+{
+  "name": "desafio-target",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para o desafio do processo seletivo da Target",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Claudio Silva",
+  "license": "ISC"
+}
